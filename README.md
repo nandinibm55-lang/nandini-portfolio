@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="https://vercel.com/nandini-b044/nandini-portfolio">
+<a href="[https://vercel.com/nandini-b044/nandini-portfolio](https://nandini-portfolio-chi.vercel.app/)">
   <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
 </a>
 
@@ -151,7 +151,7 @@ Responsive portfolio website showcasing projects, technical skills and professio
 `HTML` `CSS` `JavaScript` `React`
 
 🔗 **Portfolio:**  
-https://vercel.com/nandini-b044/nandini-portfolio
+[https://vercel.com/nandini-b044/nandini-portfolio](https://nandini-portfolio-chi.vercel.app/)
 
 ---
 
