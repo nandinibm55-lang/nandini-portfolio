@@ -130,16 +130,6 @@ Machine learning application that processes datasets, trains predictive models a
 **Tech Stack:**  
 `Python` `Pandas` `Scikit-learn` `Machine Learning`
 
----
-
-# 🌐 Full-Stack Projects
-
-### 🍔 Smart Food Delivery Route Optimizer
-
-Web application designed to optimize food delivery routes and improve delivery efficiency.
-
-**Tech Stack:**  
-`JavaScript` `React` `Node.js` `MongoDB`
 
 ---
 
