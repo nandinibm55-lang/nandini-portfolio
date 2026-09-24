@@ -58,7 +58,7 @@
 
 ---
 
-# 💻 Technical Skills
+# 💻 Technical Skill's
 
 ## 👩‍💻 Programming Languages
 
