@@ -11,7 +11,7 @@ export default function Projects() {
             PROJECTS
           </p>
           <h2 className="mt-3 text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
-            Technical &amp; Creative Projects
+            My Technical &amp; Creative Projects
           </h2>
           <p className="mt-4 text-base leading-relaxed text-muted">
             Project write-ups are being prepared. This section will list
